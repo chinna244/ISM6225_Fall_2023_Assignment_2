@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5AEF6273-40D7-4058-AD2A-9753D715DEDE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISM6225_Fall_2023_Assignment_2/Program.cs">
+    <Files>
+      <File FileName="ISM6225_Fall_2023_Assignment_2/Program.cs" Line="31" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ISM6225__Fall__2023__Assignment__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -13,3 +13,18 @@
 /Users/naveennagulapalli/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.pdb
 /Users/naveennagulapalli/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.genruntimeconfig.cache
 /Users/naveennagulapalli/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ref/ISM6225_Fall_2023_Assignment_2.dll
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/bin/Debug/net7.0/ISM6225_Fall_2023_Assignment_2
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/bin/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.deps.json
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/bin/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.runtimeconfig.json
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/bin/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.dll
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/bin/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.pdb
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.csproj.AssemblyReference.cache
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.AssemblyInfoInputs.cache
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.AssemblyInfo.cs
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.csproj.CoreCompileInputs.cache
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.dll
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/refint/ISM6225_Fall_2023_Assignment_2.dll
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.pdb
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ISM6225_Fall_2023_Assignment_2.genruntimeconfig.cache
+/Users/hareesh/Desktop/Fall 2023/DIS/Projects/ISM6225_Fall_2023_Assignment_2/ISM6225_Fall_2023_Assignment_2/obj/Debug/net7.0/ref/ISM6225_Fall_2023_Assignment_2.dll
